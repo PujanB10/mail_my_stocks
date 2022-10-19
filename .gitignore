@@ -1,0 +1,5 @@
+*.log
+venv/
+*.pyc
+geckodriver.log
+client_secret_1055643046433-g7cdpnkq1s8c3b17to5dag8gbvva2d8s.apps.googleusercontent.com.json
